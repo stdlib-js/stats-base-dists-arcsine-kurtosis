@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/kurtosis"
-click B href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/kurtosis"
+%% click B href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-dists-arcsine-kurtosis/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/arcsine/kurtosis
