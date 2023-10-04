@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for an [arcsine][arcsine-distribution] random va
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-kurtosis@esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-kurtosis@v0.1.1-esm/index.mjs';
 ```
 
 #### kurtosis( a, b )
@@ -132,7 +132,7 @@ y = kurtosis( 3.0, 3.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-kurtosis@esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-kurtosis@v0.1.1-esm/index.mjs';
 
 var a;
 var b;
