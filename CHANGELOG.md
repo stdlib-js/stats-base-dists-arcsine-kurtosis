@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-14)
+
+<section class="features">
+
+### Features
+
+-   [`31faa3e`](https://github.com/stdlib-js/stdlib/commit/31faa3e761d92fe94a35d941bed6640380e21b37) - add C implementation for `stats/base/dists/arcsine/kurtosis` [(#3388)](https://github.com/stdlib-js/stdlib/pull/3388)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3385](https://github.com/stdlib-js/stdlib/issues/3385)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`31faa3e`](https://github.com/stdlib-js/stdlib/commit/31faa3e761d92fe94a35d941bed6640380e21b37) - **feat:** add C implementation for `stats/base/dists/arcsine/kurtosis` [(#3388)](https://github.com/stdlib-js/stdlib/pull/3388) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Aayush Khanna
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
