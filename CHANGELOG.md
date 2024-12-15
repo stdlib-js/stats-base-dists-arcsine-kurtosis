@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-14)
+## Unreleased (2024-12-15)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3b4998d`](https://github.com/stdlib-js/stdlib/commit/3b4998d26569c2c7ac9cd437dadcdbe06da0093d) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`31faa3e`](https://github.com/stdlib-js/stdlib/commit/31faa3e761d92fe94a35d941bed6640380e21b37) - **feat:** add C implementation for `stats/base/dists/arcsine/kurtosis` [(#3388)](https://github.com/stdlib-js/stdlib/pull/3388) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 
 </details>
