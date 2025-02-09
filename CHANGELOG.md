@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-14)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`727d50a`](https://github.com/stdlib-js/stdlib/commit/727d50a761a91df5259078eed98b8a4f9b2e4c52) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4744)](https://github.com/stdlib-js/stdlib/pull/4744) _(by Karan Anand)_
 -   [`97c434d`](https://github.com/stdlib-js/stdlib/commit/97c434de1ac819d4f616202b10ebdce3970a76d8) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`3b4998d`](https://github.com/stdlib-js/stdlib/commit/3b4998d26569c2c7ac9cd437dadcdbe06da0093d) - **chore:** minor clean-up _(by Philipp Burckhardt)_
